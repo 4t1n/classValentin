@@ -4,7 +4,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=classValentin&layout=compact" />
 
-### Projects
+###### Projects
 <a float="left" href="https://classvalentin.github.io/projekte/comingSoon.html">- QR Code Generator</a>
 <a float="left" href="https://classvalentin.github.io/projekte/comingSoon.html">- ShortURL</a>
 <a float="left" href="https://classvalentin.github.io/projekte/TramAPI.html">- Tram Station API</a>
