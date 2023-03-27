@@ -10,6 +10,8 @@ fields_of_interests:
     "Web Development",
     "UI/UX",
     "Automation",
+    "Computer Automation",
+    "Computer Setup",
   ]
 currently_working_on: ["QR Code Generator"]
 done_projects:
