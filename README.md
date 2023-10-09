@@ -13,7 +13,7 @@ fields_of_interests:
     "Computer Automation",
     "Computer Setup",
   ]
-currently_working_on: ["QR Code Generator"]
+currently_working_at: ["iart ag"]
 done_projects:
   [
     "ShortURL",
