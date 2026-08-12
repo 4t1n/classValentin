@@ -4,7 +4,7 @@
 name: Valentin
 located_in: Switzerland
 current_job: Computer Scientist in Training
-company: iart ag
+company: Lamprecht Transport AG
 fields_of_interests:
   [
     "Web Development",
@@ -13,7 +13,7 @@ fields_of_interests:
     "Computer Automation",
     "Computer Setup",
   ]
-currently_working_at: ["iart ag"]
+currently_working_at: ["Lamprecht Transport AG"]
 done_projects:
   [
     "ShortURL",
